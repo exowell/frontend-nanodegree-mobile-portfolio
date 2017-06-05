@@ -47,3 +47,22 @@ footer span { float: right; font-style: italic; }
   body { font-size: 12px;}
   header p { padding-left: 4.5em;}
 }
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('font/opensans-regular-webfont.woff2') format('woff2'),
+         url('font/opensans-regular-webfont.woff') format('woff'),
+         url('font/OpenSans-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('font/opensans-bold-webfont.woff2') format('woff2'),
+         url('font/opensans-bold-webfont.woff') format('woff'),
+         url('font/OpenSans-Bold.ttf') format('ttf');
+    font-weight: bold;
+    font-style: normal;
+}

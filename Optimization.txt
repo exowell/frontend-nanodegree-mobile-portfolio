@@ -1,0 +1,9 @@
+Main optimizations:
+-minify js/css
+-inline style on the index.html
+-optimize images
+-fix webfont delivery
+
+Non-code optimization:
+-leverage cache
+-enable GZ compression
