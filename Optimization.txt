@@ -7,3 +7,6 @@ Main optimizations:
 Non-code optimization:
 -leverage cache
 -enable GZ compression
+
+Pizza scrolling optimizations:
+-see comments, but basically tried to avoid searching the dom in loops
